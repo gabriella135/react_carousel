@@ -1,0 +1,2 @@
+.Carousel__inputs{display:flex;flex-direction:column;grid-gap:10px;gap:10px;width:390px}.Carousel__list{list-style:none;overflow:hidden;width:260px;padding:0}.Carousel__visibleList{display:flex;transition:-webkit-transform .3 ease;transition:transform .3 ease;transition:transform .3 ease,-webkit-transform .3 ease}.Carousel__buttons{display:flex;justify-content:space-between;width:390px}.Carousel__button{display:flex;cursor:pointer}.Carousel__button--disabled{cursor:default;pointer-events:none;opacity:.6}
+/*# sourceMappingURL=main.e4a0ab24.chunk.css.map */
